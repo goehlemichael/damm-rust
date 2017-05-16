@@ -1,0 +1,27 @@
+build state machine
+
+each set of numbers is a row in the matrix 10 rows, 10 columns
+
+iterate over each digit in the user input
+
+first digit of user input
+
+choose row 0 and count the column equals the value of the first digit. that element is the new interim(row)
+
+second digit of the user input
+
+choose row (New interim) and count the columns equal to the value of the scond digit. That element is the new interim(row)
+
+third digit of the user input.......
+
+
+........until there are no digits left
+
+
+
+dammcheckdigitfunction(input) = check digit
+
+
+
+
+input + check digit = final result
