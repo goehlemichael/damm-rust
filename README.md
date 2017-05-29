@@ -2,9 +2,9 @@
 
 damm algorithm written in rust
 
-# rustc damm.rs
+    rustc damm.rs
 
-# ./damm
+    ./damm
 
 #references
 
